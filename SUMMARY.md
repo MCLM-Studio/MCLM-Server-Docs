@@ -5,4 +5,5 @@
 
 ## 钻石行动
 
-* [钻石行动项目介绍](zuan-shi-xing-dong/readme.md)
+* [关于](https://app.gitbook.com/o/zXwOkb8iuduxvRCPd7H6/s/Wc670yYjbwfaoI35b4D0/)
+* [教程文档](https://app.gitbook.com/o/zXwOkb8iuduxvRCPd7H6/s/FKMJ2ZtWj4S0hXAtjznd/)
