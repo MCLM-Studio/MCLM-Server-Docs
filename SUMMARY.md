@@ -5,5 +5,5 @@
 
 ## 钻石行动
 
-* [Page 1](zuan-shi-xing-dong/page-1.md)
+* [钻石行动项目介绍](zuan-shi-xing-dong/readme.md)
 * [《钻石行动》玩家安全公约](zuan-shi-xing-dong/zuan-shi-xing-dong-wan-jia-an-quan-gong-yue.md)
