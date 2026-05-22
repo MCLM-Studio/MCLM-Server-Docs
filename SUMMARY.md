@@ -9,3 +9,4 @@
 * [《钻石行动》玩家安全公约](zuan-shi-xing-dong/zuan-shi-xing-dong-wan-jia-an-quan-gong-yue.md)
 * [钻石行动教程文档](zuan-shi-xing-dong/readme-1/README.md)
   * [游戏介绍](zuan-shi-xing-dong/readme-1/you-xi-jie-shao.md)
+  * [游戏目标](zuan-shi-xing-dong/readme-1/you-xi-mu-biao.md)
