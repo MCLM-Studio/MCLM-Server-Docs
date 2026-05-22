@@ -28,3 +28,4 @@
   * [怎么鉴定物品](zuan-shi-xing-dong/readme-1/zen-me-jian-ding-wu-pin.md)
   * [怎么回复生命值](zuan-shi-xing-dong/readme-1/zen-me-hui-fu-sheng-ming-zhi.md)
   * [铁门怎么打开](zuan-shi-xing-dong/readme-1/tie-men-zen-me-da-kai.md)
+  * [非原版护甲机制](zuan-shi-xing-dong/readme-1/fei-yuan-ban-hu-jia-ji-zhi.md)
