@@ -10,3 +10,4 @@
 * [钻石行动教程文档](zuan-shi-xing-dong/readme-1/README.md)
   * [游戏介绍](zuan-shi-xing-dong/readme-1/you-xi-jie-shao.md)
   * [游戏目标](zuan-shi-xing-dong/readme-1/you-xi-mu-biao.md)
+  * [必备指令：cd菜单](zuan-shi-xing-dong/readme-1/bi-bei-zhi-ling-cd-cai-dan.md)
