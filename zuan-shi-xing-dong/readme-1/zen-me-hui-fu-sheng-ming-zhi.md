@@ -4,13 +4,11 @@ description: 不使用医疗用品和再生药水将无法回复生命值
 
 # 怎么回复生命值
 
-
-
 你需要使用医疗包或者再生药水来回复你的生命值
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p><a href="/broken/pages/AsyKh1m1GculHmbT9RLG">系统商店</a> -> 消耗品 -> 第2页</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>系统商店 -> 消耗品 -> 第2页</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption><p><a href="/broken/pages/AsyKh1m1GculHmbT9RLG">统商店</a> -> 消耗品 -> 第5页</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption><p>系统商店 -> 消耗品 -> 第5页</p></figcaption></figure>
 
 使用医疗包的条件：主手手持医疗包、副手和装备栏空无一物
 
@@ -32,7 +30,7 @@ description: 不使用医疗用品和再生药水将无法回复生命值
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p>违反条件导致的治疗结束也会扣除一定的生命值上限</p></figcaption></figure>
 
-不同的医疗包的属性不一样，怎么查看属性信息请参考[鉴定物品](/broken/pages/m9xWo4ZC7l8BU6dN1t0j)
+不同的医疗包属性不一样。怎么查看属性信息，请参考[怎么鉴定物品](zen-me-jian-ding-wu-pin.md)
 
 医疗包的属性：
 
@@ -43,8 +41,6 @@ description: 不使用医疗用品和再生药水将无法回复生命值
 * 估价：在系统商店出售此医疗包能赚多少钱
 
 <figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>简易医疗袋的属性信息</p></figcaption></figure>
-
-
 
 每局游戏开始前会将玩家的生命值上限重置为40点(20颗心)
 

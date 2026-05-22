@@ -6,9 +6,9 @@ description: 一个属于你自己的仓库，谁也偷不走你的东西
 
 你可以将任何物品存放在仓库中，这些物品不会被你带入局内。
 
-在 [cd菜单](/broken/pages/6NavjjuIsJVINlQmy7Cd) 中选择仓库即可打开私人仓库
+在 [cd菜单](../../bi-bei-zhi-ling-cd-cai-dan.md) 中选择仓库即可打开私人仓库
 
-<figure><img src="../../../../.gitbook/assets/image (39).png" alt=""><figcaption><p>在 <a href="/broken/pages/6NavjjuIsJVINlQmy7Cd">cd菜单</a> 中选择仓库</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (39).png" alt=""><figcaption><p>在 cd菜单 中选择仓库</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (40).png" alt=""><figcaption><p>即可打开私人仓库</p></figcaption></figure>
 
@@ -44,7 +44,7 @@ description: 一个属于你自己的仓库，谁也偷不走你的东西
 
 <figure><img src="../../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-如果你想要解锁更多中型或者大型仓库可以在[系统商店](/broken/pages/AsyKh1m1GculHmbT9RLG)或者[玩家市场](/broken/pages/FywkJLkm0sJ23AzpmJCN)中购买对应的兑换券
+如果你想要解锁更多中型或者大型仓库，可以在[系统商店](xi-tong-shang-dian.md)或者[玩家市场](wan-jia-shi-chang.md)中购买对应的兑换券
 
 <figure><img src="../../../../.gitbook/assets/image (48).png" alt=""><figcaption><p>点击仓库扩容分类</p></figcaption></figure>
 
@@ -61,4 +61,3 @@ description: 一个属于你自己的仓库，谁也偷不走你的东西
 <figure><img src="../../../../.gitbook/assets/image (53).png" alt=""><figcaption><p>将大型仓库兑换券放在主手</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (54).png" alt=""><figcaption><p>并右键即可解锁一个全新的大型仓库</p></figcaption></figure>
-

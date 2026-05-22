@@ -4,19 +4,19 @@ description: 品质稳定，价格昂贵~
 
 # 系统商店
 
-你可以从系统商店中以高价购买几乎所有你所需要的[物资](/broken/pages/QKPJdcNFOCDJdAWSH7vv)，无论是[杂物](/broken/pages/vXwjQJWTMs1nFIAa8Fsl)、[仓库扩容券](/broken/pages/dWloqsqxX4PJkvoGDBVS)、[钥匙](/broken/pages/xVirf40qIWD46UY6fKsD)还是[战斗用品](/broken/pages/ypW0FfGHrfxtHfLIFoww)。当然有些特殊的物品只能在[玩家市场](/broken/pages/FywkJLkm0sJ23AzpmJCN)与其他玩家交易或者从地图/活动中获取，比如说[首领信物](/broken/pages/uHzx1EjsEOFUBNX6x2GM)
+你可以从系统商店中以高价购买几乎所有你所需要的物资，无论是杂物、仓库扩容券、钥匙还是战斗用品。当然有些特殊的物品只能在[玩家市场](wan-jia-shi-chang.md)与其他玩家交易，或者从地图和活动中获取，比如首领信物。
 
-你也可以在系统商店中立即出售所有变卖物来快速获取金钱，但通常回收价只有购买价的一半。如果你不缺时间也可以试试在[玩家市场](/broken/pages/FywkJLkm0sJ23AzpmJCN)上出售
+你也可以在系统商店中立即出售所有变卖物来快速获取金钱，但通常回收价只有购买价的一半。如果你不缺时间，也可以试试在[玩家市场](wan-jia-shi-chang.md)上出售
 
-在 [cd菜单](/broken/pages/6NavjjuIsJVINlQmy7Cd) 中选择系统商店即可打开系统商店
+在 [cd菜单](../../bi-bei-zhi-ling-cd-cai-dan.md) 中选择系统商店即可打开系统商店
 
-<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>在 <a href="/broken/pages/6NavjjuIsJVINlQmy7Cd">cd菜单</a> 中选择系统商店</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>在 cd菜单 中选择系统商店</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>即可打开系统商店</p></figcaption></figure>
 
 你可以根据你的需要点击不同分类并进入，将鼠标悬浮在物品上可以看它代表了什么分类的物品
 
-<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>比如说<a href="/broken/pages/vXwjQJWTMs1nFIAa8Fsl">杂物</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>比如说杂物</p></figcaption></figure>
 
 点击右下角屏障可以返回至上一页，如果没有上一页则关闭系统商店页面
 
@@ -72,5 +72,4 @@ description: 品质稳定，价格昂贵~
 
 <figure><img src="../../../../.gitbook/assets/image (31).png" alt=""><figcaption><p>没有额外扣费，只会买多少花多少</p></figcaption></figure>
 
-如果你想出售任何物品，右键它也可以以相同的逻辑出售物品，但更推荐使用[一键出售](/broken/pages/BVD4sgOX5ZeGbfUQUFed)
-
+如果你想出售任何物品，右键它也可以以相同的逻辑出售物品，但更推荐使用[快捷出售](../kuai-jie-chu-shou.md)

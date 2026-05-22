@@ -4,15 +4,15 @@ description: 局内修复物品的唯一方法
 
 # 怎么使用修理包
 
-你不能在安全区（大厅）使用修理包，如果你想要在安全区（大厅）修理物品，请使用[修复装备](/broken/pages/jvzfpHRaXtv3AngsjIqX)功能
+你不能在安全区（大厅）使用修理包。如果你想要在安全区（大厅）修理物品，请使用[修复受损的装备](you-xi-liu-cheng/xiu-fu-shou-sun-de-zhuang-bei.md)功能。
 
 在对局内，你需要使用修理包来回复你想要修复的受损物品
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p><a href="/broken/pages/AsyKh1m1GculHmbT9RLG">商店</a> -> 消耗品 -> 第6页</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p>系统商店 -> 消耗品 -> 第6页</p></figcaption></figure>
 
 <br>
 
-不同的修理包的属性不一样，怎么查看属性信息请参考[鉴定物品](/broken/pages/m9xWo4ZC7l8BU6dN1t0j)
+不同的修理包属性不一样。怎么查看属性信息，请参考[怎么鉴定物品](zen-me-jian-ding-wu-pin.md)
 
 修理包的属性：
 
@@ -38,17 +38,12 @@ description: 局内修复物品的唯一方法
 每2秒回复一次耐久度，直到修理包的可用次数耗尽或目标物品耐久度满。\
 修理过程中会播放音效，并在动作栏显示修理进度。
 
-
-
 提示信息\
 修理开始时提示等待时间。\
 每次修理成功后提示已修理的耐久度和剩余次数。\
 修理停止时根据原因播放不同音效并提示信息。
 
-
-
 终止条件\
 前置条件被违反（如玩家不再蹲下，或主手/副手物品改变）。\
 可用次数为0，修理包被消耗。\
 目标物品耐久度已满。
-
