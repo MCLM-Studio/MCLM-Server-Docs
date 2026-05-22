@@ -5,5 +5,5 @@
 
 ## 钻石行动
 
-* [关于](https://app.gitbook.com/o/zXwOkb8iuduxvRCPd7H6/s/Wc670yYjbwfaoI35b4D0/)
-* [教程文档](https://app.gitbook.com/o/zXwOkb8iuduxvRCPd7H6/s/FKMJ2ZtWj4S0hXAtjznd/)
+* [Page 1](zuan-shi-xing-dong/page-1.md)
+* [《钻石行动》玩家安全公约](zuan-shi-xing-dong/zuan-shi-xing-dong-wan-jia-an-quan-gong-yue.md)
