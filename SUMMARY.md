@@ -25,3 +25,4 @@
     * [在合适的时候前往撤离点](zuan-shi-xing-dong/readme-1/you-xi-liu-cheng/zai-he-shi-de-shi-hou-qian-wang-che-li-dian.md)
     * [撤离点](zuan-shi-xing-dong/readme-1/you-xi-liu-cheng/che-li-dian.md)
     * [快捷出售](zuan-shi-xing-dong/readme-1/you-xi-liu-cheng/kuai-jie-chu-shou.md)
+  * [怎么鉴定物品](zuan-shi-xing-dong/readme-1/zen-me-jian-ding-wu-pin.md)
