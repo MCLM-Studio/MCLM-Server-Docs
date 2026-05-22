@@ -35,5 +35,5 @@ coverY: 0
 
 ### 教程文档
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>钻石行动教程文档</td><td>由官方维护的教程文档</td><td><a href="../.gitbook/assets/钻石 (1).jpg">钻石 (1).jpg</a></td><td><a href="https://mclm.gitbook.io/zsxd-help/">https://mclm.gitbook.io/zsxd-help/</a></td></tr><tr><td>社区教程文档</td><td>由社区维护的教程文档</td><td><a href="../.gitbook/assets/b_5424e59bdd5a5fbc938130e791d348fa.jpg">b_5424e59bdd5a5fbc938130e791d348fa.jpg</a></td><td><a href="https://doc.ideafox.top/diamod-force/">https://doc.ideafox.top/diamod-force/</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>钻石行动教程文档</td><td>由官方维护的教程文档</td><td><a href="../.gitbook/assets/钻石 (1).jpg">钻石 (1).jpg</a></td><td><a href="readme-1/">readme-1</a></td></tr><tr><td>社区教程文档</td><td>由社区维护的教程文档</td><td><a href="../.gitbook/assets/b_5424e59bdd5a5fbc938130e791d348fa.jpg">b_5424e59bdd5a5fbc938130e791d348fa.jpg</a></td><td><a href="https://doc.ideafox.top/diamod-force/">https://doc.ideafox.top/diamod-force/</a></td></tr></tbody></table>
 
