@@ -2,20 +2,6 @@
 icon: hand-wave
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # MCLM Server 项目介绍
@@ -38,4 +24,4 @@ MCLM Server 项目是由 MCLM Studio 负责开发与运营的 Minecraft 服务�
 
 ### 子项目列表
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>钻石行动</td><td>一个搜打撤小游戏服务器</td><td><a href=".gitbook/assets/钻石.jpg">钻石.jpg</a></td><td></td><td><a href="https://mclm.gitbook.io/zsxd">https://mclm.gitbook.io/zsxd</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>钻石行动</td><td>一个搜打撤小游戏服务器</td><td><a href=".gitbook/assets/钻石.jpg">钻石.jpg</a></td><td></td><td><a href="/broken/pages/yINp3HYgjQQd8kEXgBu5">Broken link</a></td></tr></tbody></table>
